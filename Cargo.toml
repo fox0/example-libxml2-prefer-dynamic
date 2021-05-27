@@ -1,0 +1,8 @@
+[package]
+name = "xml-validate-test"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+libxml = "0.3"
+#exitcode = "1.1"
